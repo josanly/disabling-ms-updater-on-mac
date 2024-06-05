@@ -1,6 +1,6 @@
-# Disabling MS Updater on Mac
+# Disabling Microsoft AutoUpdate on Mac
 
-Sometimes MS updater is annoying. It pops when you do not want it does. 
+Sometimes `Microsoft AutoUpdate` is annoying. It pops when you do not want it does. 
 
 I made a small and simple `Bash` script to easy switch it on/off: `on-off-microsoft-update.bash`
 
