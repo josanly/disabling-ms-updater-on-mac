@@ -27,3 +27,7 @@ To run the script:
 /path/to/on-off-microsoft-update.bash on    # activate Microsoft AutoUpdate
 /path/to/on-off-microsoft-update.bash off   # deactivate Microsoft AutoUpdate
 ```
+
+# License
+
+The script free to use and distributed under the [GPL-3.0 license](./LICENSE).
