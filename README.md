@@ -1,6 +1,6 @@
 # Disabling Microsoft AutoUpdate on Mac
 
-Sometimes `Microsoft AutoUpdate` is annoying. It pops when you do not want it does. 
+Sometimes `Microsoft AutoUpdate` is annoying. It pops up when you do not want. 
 
 I made a small and simple `Bash` script to easy switch it on/off: `on-off-microsoft-update.bash`
 
@@ -24,6 +24,6 @@ To run the script:
 * Execute the script with the mode you want to activate (`on`/`off`)
 
 ```Bash
-/path/to/on-off-microsoft-update.bash on    # activate MS Updater
-/path/to/on-off-microsoft-update.bash off   # deactivate MS Updater
+/path/to/on-off-microsoft-update.bash on    # activate Microsoft AutoUpdate
+/path/to/on-off-microsoft-update.bash off   # deactivate Microsoft AutoUpdate
 ```
